@@ -10,7 +10,7 @@ namespace OurGitProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Azza");
+            Console.WriteLine("Neo");
         }
     }
 }
